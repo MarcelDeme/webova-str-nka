@@ -1,0 +1,85 @@
+*{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    text-decoration: none;
+}
+h1 {
+    color:#4268ff ;
+    font-size: 30px;
+    font-style: oblique;
+}
+h2 {
+    text-align: center;
+    color: #4268ff;
+    font-size: 60px;
+    font-weight: 900;
+    text-shadow: 10px 10px 8px black;
+   
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+
+}
+p{
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+ul li{
+    display: inline;
+    margin: 150px;
+    font-size: 20px;
+    color:#4268ff ;
+    text-decoration:none;
+    font-size: 30px;
+
+}
+.prva{
+    text-align: center;
+    font-size: 30px;
+    color:#4268ff ;
+    text-decoration: none;
+    background-color: rgba(255, 0, 30, 0.259);
+    border-radius: 5px;  
+  
+}
+.prva:hover {
+    color: black;
+    background-color: yellowgreen;
+}
+.hlavna1 img {
+    width: 1200px;
+}
+.hlavna2 img {
+    width: 1200px;
+}
+.video iframe {
+    display: block;
+    margin: 0px auto;
+}
+.kyticehtml img {
+
+    width: 800px;
+}
+.svadbahtml img {
+    width: 800px;
+}
+.smútočnéhtml img {
+    width: 800px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
